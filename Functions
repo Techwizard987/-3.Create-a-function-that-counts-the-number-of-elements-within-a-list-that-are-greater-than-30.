@@ -1,0 +1,56 @@
+
+
+Output:
+
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 1
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 2
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 3
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 4
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 5
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 6
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 7
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 8
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 8
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 8
+list1 = [31,35,98,65,300,500,600,800,1,2]
+def greater(list1):
+    c = 0
+    for i in list1:
+        if i>30:
+            c+=1
+        print(list1)
+        print("number greater than 30 in given list",c)  
+greater(list1)
+
+Output:
+
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 1
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 2
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 3
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 4
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 5
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 6
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 7
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 8
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 8
+[31, 35, 98, 65, 300, 500, 600, 800, 1, 2]
+number greater than 30 in given list 8
